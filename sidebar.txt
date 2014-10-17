@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ity:home|Door43 (ity)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ity|d43-ity repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ity/archive/master.zip|d43-ity.zip]]
+
+**Recent Changes**
+{{changes>ns = ity}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ity|Ethnologue data]]
+
